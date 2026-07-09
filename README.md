@@ -33,3 +33,5 @@ A calm place when your feelings get heavy — emotion-as-weather, a wall of kind
 *Into psychology, learning science, and writing the occasional novel* ✎
 
 </div>
+
+<!-- profile -->
